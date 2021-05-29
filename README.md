@@ -10,12 +10,15 @@ This directory holds subdirectories with different data sources. Each subdirecto
 
 ### data/bkg
 Provider: Bundesamt für Kartographie und Geodäsie
+
 Data: Geographic and administrative data of Germany in different resolutions and with differing level of detail.
 
 ### data/delfi
 Provider: DELFI e.V.
+
 Data: Public transport information for Germany.
 
 ### data/rki
 Provider: Robert Koch-Institut
+
 Data: Pandemic parameters for Germany. Different data scopes like cases, vaccinations etc.
