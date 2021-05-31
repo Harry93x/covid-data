@@ -1,5 +1,6 @@
-# delfi
+# rki
 Provider: Robert Koch-Institut
+
 Data: Pandemic parameters for Germany. Different data scopes like cases, vaccinations etc.
 
 ## data sets
