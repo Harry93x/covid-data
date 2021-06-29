@@ -18,6 +18,11 @@ Provider: DELFI e.V.
 
 Data: Public transport information for Germany.
 
+### data/destatis
+Provider: Statistisches Bundesamt (Destatis)
+
+Data: Statistical information for Germany.
+
 ### data/rki
 Provider: Robert Koch-Institut
 
